@@ -7,12 +7,12 @@ Creating this project will give you the hands-on experience you need to confiden
 3. Servers and Security Groups
 4. Storage and Databases
 
-#### create network resource
+#### Create network resource
 ```shell
 ./create.sh myFirstStack network.yml network-parameters.json
 ```
 
-#### create instance
+#### Create instance
 ```shell
 ./create.sh mySecStack servers.yml server-parameters.json
 ```
